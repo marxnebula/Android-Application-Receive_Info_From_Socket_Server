@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KTS Receive Info</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="name">Name Displayed Here</string>
+    <string name="birthdate">Birth Date Displayed Here</string>
+    <string name="receive_button">Receive</string>
+    <string name="finalage">Final Age Displayed Here</string>
+    <string name="descrip">Click the RECEIVE button to receive users name and birth date from socket server.  Application displays the age based on user info</string>
+</resources>
